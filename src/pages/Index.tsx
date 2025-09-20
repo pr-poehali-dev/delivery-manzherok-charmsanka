@@ -188,7 +188,7 @@ export default function Index() {
                 </div>
                 <div className="text-center">
                   <div className="bg-green-100 rounded-full p-4 w-16 h-16 mx-auto mb-4 flex items-center justify-center">
-                    <Icon name="DollarSign" size={32} className="text-green-600" />
+                    <span className="text-2xl font-bold text-green-600">₽</span>
                   </div>
                   <h3 className="font-semibold text-blue-700 mb-2">Фиксированная цена</h3>
                   <p className="text-gray-600 text-sm">1000 рублей за любую доставку</p>
